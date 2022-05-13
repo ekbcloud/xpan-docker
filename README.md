@@ -20,6 +20,7 @@
 - [产品官网](https://xpan.ekbcloud.com/) 
 - [产品手册](https://ekbcloud.gitbook.io/xpan/)
 - [功能建议/技术支持](https://xpan-ekbcloud.canny.io/)
+- [版本更新日志](https://github.com/ekbcloud/xpan-docker/wiki/%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97)
 
 
 ## 🚀 安装部署
