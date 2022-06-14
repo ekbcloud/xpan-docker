@@ -4,7 +4,7 @@
   丰盘ECM
 </h1>
 <h4 align="center">企业级私有文档协同管理系统</h4>
-<h4 align="center">v1.6.4+220611 | <a href="https://ekbcloud.gitbook.io/xpan/changelogs">版本更新日志</a></h4>
+<h4 align="center">v1.6.4+220611 | <a href="https://docs-xpan.ekbcloud.com/changelogs">版本更新日志</a></h4>
 
 ## :information_source: 产品介绍
 
@@ -95,6 +95,6 @@ sudo wget https://ota.xpan.ekbcloud.com/app/xpan-install.sh -O xpan-install.sh &
 ## 相关链接
 
 - [产品官网](https://xpan.ekbcloud.com/) 
-- [产品帮助手册](https://ekbcloud.gitbook.io/xpan/)
-- [功能建议/技术支持](https://xpan-ekbcloud.canny.io/features)
-- [版本更新日志](https://ekbcloud.gitbook.io/xpan/changelogs)
+- [产品帮助手册](https://docs-xpan.ekbcloud.com/)
+- [功能建议/技术支持](https://feedback-xpan.ekbcloud.com/features)
+- [版本更新日志](https://docs-xpan.ekbcloud.com/changelogs)
